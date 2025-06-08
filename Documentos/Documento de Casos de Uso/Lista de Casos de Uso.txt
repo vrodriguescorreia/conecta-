@@ -1,0 +1,29 @@
+Casos de Uso
+
+UC#01: Acessar o Sistema
+UC#02: Realizar Login
+UC#03: Recuperar Senha
+UC#04: Realizar Cadastro
+UC#05: Visualizar a Dashboard
+
+UC#06: Realizar Busca
+UC#07: Realizar Agendamento
+UC#08: Cancelar Agendamento
+UC#09: Realizar Avaliação
+UC#10: Favoritar Profissional
+UC#11: Denunciar Usuário
+
+UC#12: Historico de Agendamentos
+UC#13: Habilidades Profissional
+UC#14: Excluir Habilidades Profissional
+UC#15: Visualizar Perfil
+UC#16: Editar Perfil
+
+UC#17: Listagem de Denuncias
+UC#18: Suspender Usuário
+UC#19: Banir Usuário
+UC#20: Invalidar Denúncia
+
+UC#21: Coletar Avaliações
+UC#22: Gerar Ranking
+UC#23: Enviar link de recuperação
