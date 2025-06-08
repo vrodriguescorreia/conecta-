@@ -6,7 +6,7 @@ Sistema web desenvolvido como projeto acadêmico para facilitar a contratação 
 - HTML, Tailwind, Alpine
 - Java (Back-end)
 - MySQL
-- 
+- XAMPP
 ## 📋 Funcionalidades
 
 - Cadastro e login de usuários
